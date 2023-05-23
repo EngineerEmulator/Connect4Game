@@ -1,0 +1,3 @@
+C:/Users/Erkam/CLionProjects/1306190047_ERKAM DOGRUL/cmake-build-debug/CMakeFiles/1306190047_ERKAM_DORUL.dir
+C:/Users/Erkam/CLionProjects/1306190047_ERKAM DOGRUL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Erkam/CLionProjects/1306190047_ERKAM DOGRUL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1306190047_ERKAM_DORUL",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1306190047_ERKAM_DORUL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1306190047_ERKAM_DORUL-Debug-b5a1e267dfe7a08c7987.json",
+					"name" : "1306190047_ERKAM_DORUL",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Erkam/CLionProjects/1306190047_ERKAM DOGRUL/cmake-build-debug",
+		"source" : "C:/Users/Erkam/CLionProjects/1306190047_ERKAM DOGRUL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

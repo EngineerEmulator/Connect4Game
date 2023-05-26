@@ -244,6 +244,7 @@ void entrance() {
                 entrance();
             } else if (stoi(column) < 0 || stoi(column) >= COLS || board[0][stoi(column)] != '_') {
                 cout << "-Gecersiz hamle! Lutfen tekrar deneyin." << endl;
+                goto getColumn;
             }
 
             if (newGame) {
